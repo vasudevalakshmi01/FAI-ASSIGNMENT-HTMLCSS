@@ -1,0 +1,45 @@
+.bannerimage 
+{
+    
+    display: flex;
+    justify-content: center;
+   
+}
+.bannerimage img
+{
+    
+    width: 960px;
+    height: 275px;
+    border:1px solid black;
+   
+}
+
+
+.pimage
+{
+    margin-top: 18px;
+margin-left: 275px;
+align-items: center;
+
+}
+.pimage img
+{
+    height: 200px;
+    width:180px;
+    border: 1px solid black;
+}
+
+.heading
+{
+    text-align: center;
+   
+}
+.heading a
+{
+    text-decoration: none;
+    padding-left: 5px;
+   
+}
+
+
+
